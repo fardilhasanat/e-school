@@ -1,0 +1,205 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.navbar-brand img{
+    width: 198px;
+    height: 59px;
+}
+.navbar-light .navbar-nav .nav-link{
+    color: black;
+    padding: 12px 28px;
+}
+
+.navbar-light .navbar-nav .nav-link:hover{
+    color: #5B5A90;
+}
+.btn-sing{
+    background-color: #21B573;
+    color: #fff!important;
+    border-radius: 33px;
+    text-decoration: none;
+}
+.btn-sing:hover{
+    color: #5B5A90!important;
+}
+.navbar-container{
+    background-color: #F0FFF0;
+}
+.btn-get{
+    text-decoration: none;
+    background-color: #21B573;
+    color: #fff;
+    padding: 12px 36px;
+    border-radius: 33px;
+    line-height: 19px;
+
+}
+.span-1{
+    color: #FD511A;
+}
+.span-2{
+    color: black;
+    
+}
+
+.span-3{
+    color: #21B573;
+}
+.hieght-h1{
+    width: 405px;
+    height: 140px;
+    line-height: 70px;
+    font-weight: 700;
+}
+.para-1{
+    font-weight: 400;
+    line-height: 36px;
+    color: #6C6B6B;
+    width: 403px;
+    height: 85px;
+}
+.feature-card{
+   background-color: #F8FFFB;
+   border-radius: 10px;
+   width: 270px;
+   height: 270px;
+   left: 135px;
+}
+
+.feature-card img {
+    width: 25%;
+    padding-bottom: 16px;
+
+
+}
+
+.feature-card h2 {
+    color: #413960;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 36px;
+
+}
+
+.feature-card p {
+    color: #585859;;
+    font-size: 16px;
+    line-height: 24px;
+
+}
+#student-shadow{
+    background-color: #FFFFFF;
+    box-shadow: 0px 20px 40px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    width: 270px;
+    height: 270px;
+}
+
+#student-shadow:hover{
+    background-color: #ffffff;
+}
+
+.feature-container {
+    margin-top: 100px;
+}
+.online{
+    color: #413960;
+    font-weight: bold;
+    font-size: 36px;
+    text-align: center;
+}
+
+.card-body h2 {
+    color: #413960;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 36px;
+}
+.card-body p {
+    color: #585859;
+    font-size: 16px;
+    padding-bottom: 15px;
+}
+.btn-buy{
+    background-color:  #21B573;
+    color: #FFFFFF;
+    padding: 8px 28px;
+    text-decoration: none;
+    border-radius: 33px;
+    
+    
+}
+.card-body ul {
+ list-style: none;
+ margin: 0;
+ padding: 0;
+ display: flex;
+ justify-content: space-between;
+}
+.card-body ul li {
+    color: #585859;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    
+}
+
+.card-body ul li i {
+    margin-right: 5px;
+}
+.course-body {
+    background: #FFFFFF;
+    box-shadow: 0px 10px 40px rgba(0, 0, 0, 0.1);
+    border-radius: 18px;
+}
+.man{
+    
+    width: 120px;
+    height: 120px;
+    margin-top: 30px;
+}
+.para-testimonial{
+    color: #000000;
+}
+.testi-h2{
+    color: #000000;
+    margin-top: 100px;
+    font-size: 36px;
+    line-height: 54px;
+    text-align: center;
+}
+.para-testimonial{
+    margin-top: 45px;
+
+}
+.footer{
+    margin-top: 100px;
+    background-color:  #282531;
+}
+.footer p {
+    color: #FFFFFF;
+    font-size: 18px;
+    line-height: 30px;
+}
+.footer ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+
+}
+
+.footer ul li {
+    color: #FFFFFF;
+    font-weight: 200;
+    font-size: 18px;
+    line-height: 30px;
+}
+.footer ul li:first-child{
+    font-weight: 700;
+}
+.footer small {
+    color: #CDCDCD;
+    font-size: 16px;
+    line-height: 30px;
+    
+}
